@@ -1,5 +1,7 @@
 # Ejercicios de Colecciones
 
+ - Radu Rares George
+
 ## Ejercicio 1
 
 Se creará un procedimiento que recibirá como primer parámetro un array de cadenas y como segundo parámetro
