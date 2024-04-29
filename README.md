@@ -1,6 +1,6 @@
 # Ejercicios de Colecciones
-
- - Radu Rares George
+ 
+ ```Radu Rares George```
 
 ## Ejercicio 1
 
